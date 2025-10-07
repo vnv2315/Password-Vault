@@ -52,8 +52,8 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone <YOUR_REPOSITORY_URL>
-    cd <PROJECT_DIRECTORY>
+    git clone https://github.com/vnv2315/Password-Vault.git
+    cd Password-Vault
     ```
 
 2.  **Set up the Backend (Server):**
