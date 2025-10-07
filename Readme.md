@@ -1,6 +1,6 @@
 # Password Vault
 
-Live demo: https://password-vault-dam6.vercel.app/
+Live demo: [click here](https://password-vault-gamma-opal.vercel.app/)
 
 Short description
 A Password manager that stores vault items encrypted on the client and uses JWT auth for user sessions. The frontend is a Next.js app; the backend is a Node/Express API with MongoDB.
