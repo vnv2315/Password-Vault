@@ -126,8 +126,11 @@ All vault routes are protected and require a valid JWT in the `Authorization` he
 
 ## 📂 Project Structure
 
-├── server/       # Express API, controllers, models, routes
-└── user/         # Next.js frontend, components, pages, utils
+.
+├── 📂 server/          # Backend: Express API
+│
+└── 📂 user/            # Frontend: Next.js App
+
 
 ---
 
